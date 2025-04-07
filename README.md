@@ -36,4 +36,4 @@ Each folder contains relevant `.java` files and resources demonstrating concepts
 
 ## Demo
 
- **[▶️ Demo: JAVA Final Project](https://youtu.be/kw84AhXvNlE)**  
+ **[▶️ Demo Vedio : JAVA Final Project](https://youtu.be/kw84AhXvNlE)**  
