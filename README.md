@@ -19,7 +19,7 @@ This course emphasizes both foundational and applied Java programming concepts, 
   - Hands-on experience through implementing a **Gomoku (五子棋)** game
   - Includes both **standard mode** and several **custom gameplay variations**
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 NCKU-Java_Software_Development/
