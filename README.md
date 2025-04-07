@@ -2,7 +2,7 @@
 
 This repository contains course materials, assignments, and a final project for the **Java Software Development** course at **National Cheng Kung University (NCKU)**.
 
-## 🧠 Course Topics
+## Course Topics
 
 This course emphasizes both foundational and applied Java programming concepts, including:
 
@@ -33,3 +33,7 @@ NCKU-Java_Software_Development/
 ```
 
 Each folder contains relevant `.java` files and resources demonstrating concepts taught in the course.
+
+## Demo
+
+ **[▶️ Demo: JAVA Final Project](https://your-demo-link.com)**  
